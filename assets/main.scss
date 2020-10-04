@@ -1,0 +1,19 @@
+---
+---
+
+$base-font-family: "나눔바른고딕", -apple-system, Roboto;
+$base-font-size:   16px !default;
+$base-font-weight: 340 !default;
+
+@import "minima";
+
+.footer-col-wrapper {
+    @include relative-font-size(0.7);
+}
+.post-meta {
+    font-family: Monaco, "Courier New", monospace;
+}
+.post-link {
+    display: inline;
+    @include relative-font-size(1.0);
+}
