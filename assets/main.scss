@@ -17,3 +17,6 @@ $base-font-weight: 340 !default;
     display: inline;
     @include relative-font-size(1.0);
 }
+.post-list > li {
+    margin-bottom: 0px;
+}
