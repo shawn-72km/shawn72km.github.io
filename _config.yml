@@ -25,7 +25,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   개발자 또는 리드로서 하고 싶은 것, 느꼈던 것, 공유하고 싶은 것 등
   여러가지에 대해 작성하는 공간.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://shawn72km.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: shawn72km
 github_username:  shawn72km
 google_analytics: G-HBD85QF1SG
@@ -34,6 +34,7 @@ google_analytics: G-HBD85QF1SG
 theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-sitemap
 
 # Exclude from processing.
 # The following items will not be processed, by default.
