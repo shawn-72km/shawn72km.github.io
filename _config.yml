@@ -32,6 +32,7 @@ google_analytics: G-HBD85QF1SG
 
 # Build settings
 theme: minima
+asset_url: /assets
 plugins:
   - jekyll-feed
   - jekyll-sitemap
