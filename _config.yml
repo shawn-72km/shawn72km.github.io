@@ -18,12 +18,12 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: 개발자 또는 리더의 이것 저것
+title: shawn72km의 이것 저것
 author: shawn72km
 email: ""
 description: >- # this means to ignore newlines until "baseurl:"
-  개발자 또는 리더로서 하고 싶은 것, 느꼈던 것, 공유하고 싶은 것 등
-  여러가지에 대해 작성하는 공간.
+  개발자 또는 관리자로서 하고 싶은 것, 느꼈던 것, 공유하고 싶은 것 등
+  여러 가지에 대해 작성하는 공간
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://shawn72km.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: shawn72km

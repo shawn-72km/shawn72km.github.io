@@ -5,4 +5,4 @@
 layout: home
 ---
 
-모든 것에는 콘텍스트(Context)가 가장 중요하다.
+콘텍스트(Context)가 가장 중요하다.
