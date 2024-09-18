@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Java에서 Exception - 2
+title: Java에서 Exception 2편
 date: 2022-02-20 17:00:00 +0900
 categories: development
 tags: 개발 java exception

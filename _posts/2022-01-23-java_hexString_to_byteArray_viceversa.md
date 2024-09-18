@@ -3,7 +3,7 @@ layout: post
 title: Java에서 Byte Array를 HexString으로 또는 그 반대로 쉽게 전환하기
 date: 2022-01-23 11:30:00 +0900
 categories: development
-tags: 팁 개발 JAVA
+tags: 팁 개발 java
 ---
 
 최근 별도 라이브러리 없이 순수 Java 언어만 이용하여 코드 샘플을 작성해야 하는 것 중에서 Hex String을 Byte Array로 또는 그 반대로 Byte Array를 Hex String으로 전환해야 하는 경우가 있었다. 이 경우 내가 선호하는 방식은 다음과 같다.

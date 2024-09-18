@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Java에서 Exception - 1
+title: Java에서 Exception 1편
 date: 2022-02-12 17:00:00 +0900
 categories: development
 tags: 개발 java go
