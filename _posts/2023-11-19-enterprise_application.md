@@ -63,3 +63,5 @@ tags: cleanarchitecture hexagonal simplicity srp ccp test tdd testdrivendevelopm
 상위 개념 또는 고차원 개념으로만 작성했다. 이것 외에도 지키면 좋을 규칙들이 더 있다.
 
 향후에는 상세 내용에 대해 공유하고자 한다. 상세 내용은 실제 엔터프라이즈 애플리케이션을 구축하는 환경에서 겪을 수 있는 예시를 가지고 하고자 한다.
+
+![CC by-nc-nd](/assets/by-nc-nd.png){:width="80px"}
